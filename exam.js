@@ -37,7 +37,7 @@ function Mission5(arr1, arr2){
     return newObject;
 }
 
-console.log(Mission5(['a', 'b', 'c'], [1, 2, 3, 4]));
+//console.log(Mission5(['a', 'b', 'c'], [1, 2, 3, 4]));
 
 module.exports = {
     Mission1,
